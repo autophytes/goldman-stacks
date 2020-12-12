@@ -44,9 +44,9 @@ GoldmanStacks.app : A full-stack group project with a focus on back-end tools an
 * 
 
 ## Contributors
-    * David Colon - https://github.com/Da-Colon
-    * Puja Fitzpatrick - https://github.com/pujafitz
-    * Josh Marbert - https://github.com/jmarbert
+    * David
+    * Puja
+    * Josh
 
 
 ## Screenshots
